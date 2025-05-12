@@ -3,6 +3,7 @@
 1. **Clone the repository:**
    ```
    git clone https://github.com/techshinigami/anti-afk.git
+   cd anti-afk
 
 3. **Install the required dependencies:**
    ```
