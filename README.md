@@ -1,4 +1,7 @@
-### Usage:
+# Anti-AFK 🕹️
+For those quick breaks mid-game ⏳ — keeps your game session alive while you’re away for those important breaks 🚽.
+
+## Usage:
 
 1. **Clone the repository:**
    ```
