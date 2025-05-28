@@ -1,5 +1,5 @@
 # Anti-AFK 🕹️
-For those quick breaks mid-game ⏳ — keeps your game session alive while you’re away for those important breaks 🚽. Just set it up and relax 😎.
+For those quick breaks mid-game ⏳ — keeps your game session alive while you’re away for those important breaks.
 
 ## Usage:
 
